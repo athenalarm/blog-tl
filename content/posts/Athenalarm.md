@@ -65,7 +65,7 @@ Kung ikaw man ay integrator ng seguridad, distributor, o end-user, ang Athenalar
 
 - Websayt: [https://athenalarm.com/](https://athenalarm.com/)  
 - Email: [info@athenalarm.com](mailto:info@athenalarm.com)  
-- Telepono/Mobile/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
+- Telepono/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
 
 ## Sundan Kami
 
